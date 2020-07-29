@@ -11,6 +11,6 @@
 		FROM
 		user
 		ORDER BY
-		age DESC
+		id
 	</select>
 </mapper>
